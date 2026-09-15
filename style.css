@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'ABC Monument Grotesk Semi Mono';
+  src: url('fonts/ABCMonumentGroteskSemiMonoTrial-Regular.otf') format('opentype');
+}
+
+body {
+  font-family: 'ABC Monument Grotesk Semi Mono', monospace;
+    line-height: 1.37; /* already set — try 1.8 or 2 for more space */
+
+}
+
